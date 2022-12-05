@@ -1,0 +1,600 @@
+{
+  "users": [
+    {
+      "id": "e36cd772-bf6d-4506-b573-f4373d609385",
+      "username": "george"
+    }
+  ],
+  "invoices": [
+    {
+      "customer": "Test",
+      "projectName": "P123",
+      "projectId": "888f1e5d-b6cf-4df1-a789-231exe877726",
+      "hourlyRate": 1000,
+      "duration": "00:30:01",
+      "fee": 500,
+      "sentAt": "2019-11-23",
+      "dueDate": "2019-12-23",
+      "status": "unpaid",
+      "id": 4
+    },
+    {
+      "customer": "Favourite customah",
+      "projectName": "gp1",
+      "projectId": "e9b39752-4efb-412d-98c6-9b5847e07212",
+      "hourlyRate": 2000,
+      "duration": "14:210:10",
+      "fee": 35000,
+      "sentAt": "2022-11-23",
+      "dueDate": "2022-12-23",
+      "status": "unpaid",
+      "id": 5
+    },
+    {
+      "customer": "Sweco",
+      "projectName": "P123",
+      "projectId": "888f1e5d-b6cf-4df1-a789-231e5e877726",
+      "hourlyRate": 1000,
+      "duration": "00:30:01",
+      "fee": 500,
+      "sentAt": "2022-11-23",
+      "dueDate": "2022-12-23",
+      "status": "unpaid",
+      "id": 6
+    },
+    {
+      "customer": "Sweco",
+      "projectName": "P123",
+      "projectId": "888f1e5d-b6cf-4df1-a789-231e5e877726",
+      "hourlyRate": 1000,
+      "duration": "00:30:01",
+      "fee": 500,
+      "sentAt": "2022-11-23",
+      "dueDate": "2022-12-23",
+      "status": "unpaid",
+      "id": 7
+    },
+    {
+      "customer": "Favourite customah",
+      "projectName": "gp1",
+      "projectId": "e9b39752-4efb-412d-98c6-9b5847e07212",
+      "hourlyRate": 2000,
+      "duration": "03:60:04",
+      "fee": 8000,
+      "sentAt": "2022-11-23",
+      "dueDate": "2022-12-23",
+      "status": "unpaid",
+      "id": 8
+    },
+    {
+      "id": 14,
+      "customer": "Sweco",
+      "projectName": "P123",
+      "projectId": "888f1e5d-b6cf-4df1-a789-231e5e877726",
+      "hourlyRate": 1000,
+      "duration": "00:30",
+      "fee": 500,
+      "sentAt": "2022-11-28",
+      "dueDate": "2022-12-28",
+      "status": "unpaid"
+    },
+    {
+      "id": 15,
+      "customer": "Sweco",
+      "projectName": "P123",
+      "projectId": "888f1e5d-b6cf-4df1-a789-231e5e877726",
+      "hourlyRate": 1000,
+      "duration": "00:30",
+      "fee": 500,
+      "sentAt": "2022-11-29",
+      "dueDate": "2022-12-29",
+      "status": "unpaid"
+    },
+    {
+      "id": 16,
+      "customer": "Favourite customah",
+      "projectName": "gp1",
+      "projectId": "e9b39752-4efb-412d-98c6-9b5847e07212",
+      "hourlyRate": 2000,
+      "duration": "18:00",
+      "fee": 36000,
+      "sentAt": "2022-11-09",
+      "dueDate": "2022-12-29",
+      "status": "unpaid"
+    },
+    {
+      "id": 17,
+      "customer": "Favourite customah",
+      "projectName": "gp1",
+      "projectId": "e9b39752-4efb-412d-98c6-9b5847e07212",
+      "hourlyRate": 2000,
+      "duration": "20:45",
+      "fee": 41500,
+      "sentAt": "2022-12-03",
+      "dueDate": "2023-01-02",
+      "status": "unpaid"
+    },
+    {
+      "id": 18,
+      "customer": "Favourite customah",
+      "projectName": "gp1",
+      "projectId": "e9b39752-4efb-412d-98c6-9b5847e07212",
+      "hourlyRate": 2000,
+      "duration": "20:45",
+      "fee": 41500,
+      "sentAt": "2022-12-03",
+      "dueDate": "2023-01-02",
+      "status": "unpaid"
+    },
+    {
+      "id": 19,
+      "customer": "Sweco",
+      "projectName": "P123",
+      "projectId": "888f1e5d-b6cf-4df1-a789-231e5e877726",
+      "hourlyRate": 1000,
+      "duration": "00:30",
+      "fee": 500,
+      "sentAt": "2022-12-03",
+      "dueDate": "2023-01-02",
+      "status": "unpaid"
+    },
+    {
+      "id": 20,
+      "customer": "Favourite customah",
+      "projectName": "gp1",
+      "projectId": "e9b39752-4efb-412d-98c6-9b5847e07212",
+      "hourlyRate": 2000,
+      "duration": "16:30",
+      "fee": 33000,
+      "sentAt": "2022-12-03",
+      "dueDate": "2023-01-02",
+      "status": "unpaid"
+    },
+    {
+      "id": 21,
+      "customer": "Sweco",
+      "projectName": "P123",
+      "projectId": "888f1e5d-b6cf-4df1-a789-231e5e877726",
+      "hourlyRate": 1000,
+      "duration": "00:30",
+      "fee": 500,
+      "sentAt": "2022-12-05",
+      "dueDate": "2023-01-04",
+      "status": "unpaid"
+    },
+    {
+      "id": 22,
+      "customer": "Favourite customah",
+      "projectName": "gp1",
+      "projectId": "e9b39752-4efb-412d-98c6-9b5847e07212",
+      "hourlyRate": 2000,
+      "duration": "16:30",
+      "fee": 33000,
+      "sentAt": "2022-12-05",
+      "dueDate": "2023-01-04",
+      "status": "unpaid"
+    }
+  ],
+  "projects": [
+    {
+      "id": "fb4470d6-6e03-4cf9-be9c-cf8224c0cc83",
+      "user_id": "anonymous",
+      "name": "P12",
+      "description": "",
+      "deadline": "",
+      "color": "#000000",
+      "isDone": false
+    },
+    {
+      "id": "888f1e5d-b6cf-4df1-a789-231e5e877726",
+      "user_id": "anonymous",
+      "name": "P123",
+      "description": "",
+      "deadline": "",
+      "color": "#000000",
+      "isDone": false,
+      "hourlyRate": 1000,
+      "customer": "Sweco"
+    },
+    {
+      "id": "c0c1ff23-52f5-4153-aa3e-c00dd817dcf2",
+      "user_id": "anonymous",
+      "name": "P1234",
+      "description": "",
+      "deadline": "",
+      "color": "#000000",
+      "isDone": false
+    },
+    {
+      "id": "595e27fc-7aec-441a-961b-b793760bd6ad",
+      "user_id": "anonymous",
+      "name": "P12345",
+      "description": "",
+      "deadline": "",
+      "color": "#000000",
+      "isDone": false
+    },
+    {
+      "id": "d7081b3a-6703-4704-8752-84a8eaa76589",
+      "user_id": "anonymous",
+      "name": "P123456",
+      "description": "",
+      "deadline": "",
+      "color": "#000000",
+      "isDone": false
+    },
+    {
+      "id": "e9b39752-4efb-412d-98c6-9b5847e07212",
+      "user_id": "e36cd772-bf6d-4506-b573-f4373d609385",
+      "name": "gp1",
+      "description": "",
+      "deadline": "",
+      "color": "#000000",
+      "isDone": false
+    },
+    {
+      "id": "b57cb2a4-a3cc-40d8-8d80-4eb98aaaa1d2",
+      "user_id": "e36cd772-bf6d-4506-b573-f4373d609385",
+      "name": "gp12",
+      "description": "",
+      "deadline": "",
+      "color": "#000000",
+      "isDone": false
+    },
+    {
+      "id": "80300433-fba4-4129-adb2-d34b2a85db27",
+      "user_id": "e36cd772-bf6d-4506-b573-f4373d609385",
+      "name": "gp123",
+      "description": "",
+      "deadline": "",
+      "color": "#000000",
+      "isDone": false
+    },
+    {
+      "id": "065524ac-dce0-453d-88b9-96f4b8d2d1aa",
+      "user_id": "e36cd772-bf6d-4506-b573-f4373d609385",
+      "name": "gp1234",
+      "description": "",
+      "deadline": "",
+      "color": "#000000",
+      "isDone": false
+    }
+  ],
+  "tasks": [
+    {
+      "id": "54f1c139-b881-497b-aaa3-7eeffecaf12f",
+      "name": "T12343",
+      "user_id": "anonymous",
+      "projectId": "888f1e5d-b6cf-4df1-a789-231e5e877726",
+      "deadline": "",
+      "color": "#000000",
+      "isDone": false
+    },
+    {
+      "id": "705eb58e-c6ba-4ed4-a27a-bf371cdd0187",
+      "name": "T123431",
+      "user_id": "anonymous",
+      "projectId": "888f1e5d-b6cf-4df1-a789-231e5e877726",
+      "deadline": "",
+      "color": "#000000",
+      "isDone": false
+    },
+    {
+      "id": "351a8b9b-6d8b-4704-9614-4f34725fa0a8",
+      "name": "T1234312",
+      "user_id": "anonymous",
+      "projectId": "888f1e5d-b6cf-4df1-a789-231e5e877726",
+      "deadline": "",
+      "color": "#000000",
+      "isDone": false
+    },
+    {
+      "id": "da3f1fde-6534-481e-9478-046a436f48a1",
+      "name": "T12343123",
+      "user_id": "anonymous",
+      "projectId": "888f1e5d-b6cf-4df1-a789-231e5e877726",
+      "deadline": "",
+      "color": "#000000",
+      "isDone": false
+    },
+    {
+      "id": "97af6dbc-66f2-481b-9124-67ec5cefe4f5",
+      "name": "T123431234",
+      "user_id": "anonymous",
+      "projectId": "888f1e5d-b6cf-4df1-a789-231e5e877726",
+      "deadline": "",
+      "color": "#000000",
+      "isDone": false
+    },
+    {
+      "id": "973964f0-e8fc-4202-84d4-af57d2e65fe0",
+      "name": "gt1",
+      "user_id": "e36cd772-bf6d-4506-b573-f4373d609385",
+      "projectId": "e9b39752-4efb-412d-98c6-9b5847e07212",
+      "deadline": "",
+      "color": "#000000",
+      "isDone": false
+    },
+    {
+      "id": "161fb1c6-46fb-4fd3-8bc2-aa1d6a7e25c4",
+      "name": "gt12",
+      "user_id": "e36cd772-bf6d-4506-b573-f4373d609385",
+      "projectId": "e9b39752-4efb-412d-98c6-9b5847e07212",
+      "deadline": "",
+      "color": "#000000",
+      "isDone": false
+    },
+    {
+      "id": "2ae13a9d-bbe0-47bb-9bdd-d80b29651a70",
+      "name": "gt123",
+      "user_id": "e36cd772-bf6d-4506-b573-f4373d609385",
+      "projectId": "e9b39752-4efb-412d-98c6-9b5847e07212",
+      "deadline": "",
+      "color": "#000000",
+      "isDone": false
+    },
+    {
+      "id": "75e18136-bf88-4bef-8c69-f6644cf0b584",
+      "name": "gt1234",
+      "user_id": "e36cd772-bf6d-4506-b573-f4373d609385",
+      "projectId": "e9b39752-4efb-412d-98c6-9b5847e07212",
+      "deadline": "",
+      "color": "#000000",
+      "isDone": false
+    },
+    {
+      "id": "8063bf0a-5c5b-424b-8d0a-91a0d501ed69",
+      "name": "gt12342",
+      "user_id": "e36cd772-bf6d-4506-b573-f4373d609385",
+      "projectId": "80300433-fba4-4129-adb2-d34b2a85db27",
+      "deadline": "",
+      "color": "#000000",
+      "isDone": false
+    },
+    {
+      "id": "db581d4b-2681-426c-80de-403f51c7c72b",
+      "name": "gt123423",
+      "user_id": "e36cd772-bf6d-4506-b573-f4373d609385",
+      "projectId": "b57cb2a4-a3cc-40d8-8d80-4eb98aaaa1d2",
+      "deadline": "",
+      "color": "#000000",
+      "isDone": false
+    }
+  ],
+  "timelogs": [
+    {
+      "id": "af127020-bec2-46a2-b230-222c873ddbcy",
+      "taskId": "da3f1fde-6534-481e-9478-046a436f48a1",
+      "projectId": "888f1e5d-b6cf-4df1-a789-231e5e877726",
+      "user_id": "anonymous",
+      "duration": "01:30:00",
+      "startDate": "2022-11-19T22:40:53.000Z",
+      "stopDate": "2022-11-19T22:40:54.488Z"
+    },
+    {
+      "id": "af127020-bec2-46a2-b230-222c873ddbcx",
+      "taskId": "da3f1fde-6534-481e-9478-046a436f48a1",
+      "projectId": "888f1e5d-b6cf-4df1-a789-231e5e877726",
+      "user_id": "anonymous",
+      "duration": "00:30:00",
+      "startDate": "2022-11-19T22:40:53.000Z",
+      "stopDate": "2022-11-19T22:40:54.488Z"
+    },
+    {
+      "id": "af127020-bec2-46a2-b230-222c873ddbcf",
+      "taskId": "da3f1fde-6534-481e-9478-046a436f48a1",
+      "projectId": "888f1e5d-b6cf-4df1-a789-231e5e877726",
+      "user_id": "anonymous",
+      "duration": "00:30:01",
+      "startDate": "2022-11-19T22:40:53.000Z",
+      "stopDate": "2022-11-19T22:40:54.488Z"
+    },
+    {
+      "id": "88069528-aa57-4824-bf80-6d58296d2b14",
+      "taskId": "973964f0-e8fc-4202-84d4-af57d2e65fe0",
+      "projectId": "e9b39752-4efb-412d-98c6-9b5847e07212",
+      "user_id": "e36cd772-bf6d-4506-b573-f4373d609385",
+      "duration": "00:30:01",
+      "startDate": "2022-11-19T22:41:32.776Z",
+      "stopDate": "2022-11-19T22:41:34.231Z"
+    },
+    {
+      "id": "1e67e770-e1e0-4c9d-8a53-3a40689c0e09",
+      "taskId": "973964f0-e8fc-4202-84d4-af57d2e65fe0",
+      "projectId": "e9b39752-4efb-412d-98c6-9b5847e07212",
+      "user_id": "e36cd772-bf6d-4506-b573-f4373d609385",
+      "duration": "00:30:01",
+      "startDate": "2022-11-19T22:41:35.415Z",
+      "stopDate": "2022-11-19T22:41:35.878Z"
+    },
+    {
+      "id": "71a4091b-0a26-4904-be52-cb7749e369e3",
+      "taskId": "973964f0-e8fc-4202-84d4-af57d2e65fe0",
+      "projectId": "e9b39752-4efb-412d-98c6-9b5847e07212",
+      "user_id": "e36cd772-bf6d-4506-b573-f4373d609385",
+      "duration": "01:00:01",
+      "startDate": "2022-11-19T22:41:37.033Z",
+      "stopDate": "2022-11-19T22:41:38.368Z"
+    },
+    {
+      "id": "03867dbe-a1c4-4af7-9731-99173a495ac4",
+      "taskId": "973964f0-e8fc-4202-84d4-af57d2e65fe0",
+      "projectId": "e9b39752-4efb-412d-98c6-9b5847e07212",
+      "user_id": "e36cd772-bf6d-4506-b573-f4373d609385",
+      "duration": "02:00:01",
+      "startDate": "2022-11-19T22:41:39.455Z",
+      "stopDate": "2022-11-19T22:41:41.031Z"
+    },
+    {
+      "id": "c945accc-49e5-47c8-9799-0939ccdc363e",
+      "taskId": "161fb1c6-46fb-4fd3-8bc2-aa1d6a7e25c4",
+      "projectId": "e9b39752-4efb-412d-98c6-9b5847e07212",
+      "user_id": "e36cd772-bf6d-4506-b573-f4373d609385",
+      "duration": "01:00:01",
+      "startDate": "2022-11-19T22:41:44.127Z",
+      "stopDate": "2022-11-19T22:41:45.665Z"
+    },
+    {
+      "id": "0f340112-adbc-48fd-a532-2e3016a03fb6",
+      "taskId": "161fb1c6-46fb-4fd3-8bc2-aa1d6a7e25c4",
+      "projectId": "e9b39752-4efb-412d-98c6-9b5847e07212",
+      "user_id": "e36cd772-bf6d-4506-b573-f4373d609385",
+      "duration": "03:00:01",
+      "startDate": "2022-11-19T22:41:46.816Z",
+      "stopDate": "2022-11-19T22:41:48.127Z"
+    },
+    {
+      "id": "7bf1d1c8-febe-4ed8-b0b3-67fbea2d8927",
+      "taskId": "161fb1c6-46fb-4fd3-8bc2-aa1d6a7e25c4",
+      "projectId": "e9b39752-4efb-412d-98c6-9b5847e07212",
+      "user_id": "e36cd772-bf6d-4506-b573-f4373d609385",
+      "duration": "05:00:01",
+      "startDate": "2022-11-19T22:41:49.055Z",
+      "stopDate": "2022-11-19T22:41:50.401Z"
+    },
+    {
+      "id": "1860d3fc-7794-431c-a8ce-d8abbf1739ca",
+      "taskId": "161fb1c6-46fb-4fd3-8bc2-aa1d6a7e25c4",
+      "projectId": "e9b39752-4efb-412d-98c6-9b5847e07212",
+      "user_id": "e36cd772-bf6d-4506-b573-f4373d609385",
+      "duration": "00:30:01",
+      "startDate": "2022-11-19T22:41:51.232Z",
+      "stopDate": "2022-11-19T22:41:52.599Z"
+    },
+    {
+      "id": "9e6922c5-a61c-4358-b8eb-8673a0da6e9a",
+      "taskId": "161fb1c6-46fb-4fd3-8bc2-aa1d6a7e25c4",
+      "projectId": "e9b39752-4efb-412d-98c6-9b5847e07212",
+      "user_id": "e36cd772-bf6d-4506-b573-f4373d609385",
+      "duration": "00:30:01",
+      "startDate": "2022-11-19T22:41:53.543Z",
+      "stopDate": "2022-11-19T22:41:54.888Z"
+    },
+    {
+      "id": "ee264457-fb6d-439c-92d3-1025fe4d8be7",
+      "taskId": "161fb1c6-46fb-4fd3-8bc2-aa1d6a7e25c4",
+      "projectId": "e9b39752-4efb-412d-98c6-9b5847e07212",
+      "user_id": "e36cd772-bf6d-4506-b573-f4373d609385",
+      "duration": "02:00:01",
+      "startDate": "2022-11-19T22:41:55.808Z",
+      "stopDate": "2022-11-19T22:41:56.999Z"
+    },
+    {
+      "id": "a4fc5d29-49c2-4565-a433-2b1113ca2860",
+      "taskId": "75e18136-bf88-4bef-8c69-f6644cf0b584",
+      "projectId": "e9b39752-4efb-412d-98c6-9b5847e07212",
+      "user_id": "e36cd772-bf6d-4506-b573-f4373d609385",
+      "duration": "00:30:00",
+      "startDate": "2022-11-19T22:41:59.545Z",
+      "stopDate": "2022-11-19T22:42:00.919Z"
+    },
+    {
+      "id": "b70a56e3-869f-4470-9b78-1b088757c3d1",
+      "taskId": "75e18136-bf88-4bef-8c69-f6644cf0b584",
+      "projectId": "e9b39752-4efb-412d-98c6-9b5847e07212",
+      "user_id": "e36cd772-bf6d-4506-b573-f4373d609385",
+      "duration": "00:30:00",
+      "startDate": "2022-08-19T22:42:01.967Z",
+      "stopDate": "2022-08-19T22:42:03.359Z"
+    },
+    {
+      "id": "b4a086f7-b104-4a57-857a-15e22834e1e4",
+      "taskId": "75e18136-bf88-4bef-8c69-f6644cf0b584",
+      "projectId": "e9b39752-4efb-412d-98c6-9b5847e07212",
+      "user_id": "e36cd772-bf6d-4506-b573-f4373d609385",
+      "duration": "00:30:00",
+      "startDate": "2022-09-19T22:42:05.343Z",
+      "stopDate": "2022-09-19T22:42:06.679Z"
+    },
+    {
+      "id": "b4a086f7-b104-4a57-857a-15e22834e1e1",
+      "taskId": "75e18136-bf88-4bef-8c69-f6644cf0b584",
+      "projectId": "e9b39752-4efb-412d-98c6-9b5847e07212",
+      "user_id": "e36cd772-bf6d-4506-b573-f4373d609385",
+      "duration": "00:30:00",
+      "startDate": "2022-09-19T22:42:05.343Z",
+      "stopDate": "2022-09-19T22:42:06.679Z"
+    },
+    {
+      "id": "b4a086f7-b104-4a57-857a-15e22834e1e9",
+      "taskId": "75e18136-bf88-4bef-8c69-f6644cf0b584",
+      "projectId": "e9b39752-4efb-412d-98c6-9b5847e07212",
+      "user_id": "e36cd772-bf6d-4506-b573-f4373d609385",
+      "duration": "00:30:00",
+      "startDate": "2022-11-19T22:42:05.343Z",
+      "stopDate": "2022-11-19T22:42:06.679Z"
+    },
+    {
+      "id": "b4a086f7-b104-4a57-857a-15e22834e1e2",
+      "taskId": "75e18136-bf88-4bef-8c69-f6644cf0b584",
+      "projectId": "e9b39752-4efb-412d-98c6-9b5847e07212",
+      "user_id": "e36cd772-bf6d-4506-b573-f4373d609385",
+      "duration": "00:20:00",
+      "startDate": "2022-11-19T22:42:05.343Z",
+      "stopDate": "2022-11-19T22:42:06.679Z"
+    },
+    {
+      "id": "b4a086f7-b104-4a57-857a-15e22834e1e4",
+      "taskId": "75e18136-bf88-4bef-8c69-f6644cf0b584",
+      "projectId": "e9b39752-4efb-412d-98c6-9b5847e07212",
+      "user_id": "e36cd772-bf6d-4506-b573-f4373d609385",
+      "duration": "00:20:00",
+      "startDate": "2022-11-19T22:42:05.343Z",
+      "stopDate": "2022-11-19T22:42:06.679Z"
+    },
+    {
+      "id": "b4a086f7-b104-4a57-857a-15e22834e1e6",
+      "taskId": "75e18136-bf88-4bef-8c69-f6644cf0b584",
+      "projectId": "e9b39752-4efb-412d-98c6-9b5847e07212",
+      "user_id": "e36cd772-bf6d-4506-b573-f4373d609385",
+      "duration": "00:30:00",
+      "startDate": "2022-11-19T22:42:05.343Z",
+      "stopDate": "2022-11-19T22:42:06.679Z"
+    },
+    {
+      "id": "b4a086f7-b104-4a57-857a-15e22834exe6",
+      "taskId": "75e18136-bf88-4bef-8c69-f6644cf0b584",
+      "projectId": "e9b39752-4efb-412d-98c6-9b5847e07212",
+      "user_id": "e36cd772-bf6d-4506-b573-f4373d609385",
+      "duration": "00:30:00",
+      "startDate": "2022-11-19T22:42:05.343Z",
+      "stopDate": "2022-11-19T22:42:06.679Z"
+    },
+    {
+      "id": "b4a086f7-b104-4a57-857a-15e22834ete6",
+      "taskId": "75e18136-bf88-4bef-8c69-f6644cf0b584",
+      "projectId": "e9b39752-4efb-412d-98c6-9b5847e07212",
+      "user_id": "e36cd772-bf6d-4506-b573-f4373d609385",
+      "duration": "00:30:00",
+      "startDate": "2022-12-01T22:42:05.343Z",
+      "stopDate": "2022-12-01T22:42:06.679Z"
+    },
+    {
+      "id": "b4a086f7-b104-4a57-857a-15e22834ete6",
+      "taskId": "75e18136-bf88-4bef-8c69-f6644cf0b584",
+      "projectId": "e9b39752-4efb-412d-98c6-9b5847e07212",
+      "user_id": "e36cd772-bf6d-4506-b573-f4373d609385",
+      "duration": "00:30:00",
+      "startDate": "2022-12-01T22:42:05.343Z",
+      "stopDate": "2022-12-01T22:42:06.679Z"
+    },
+    {
+      "id": "b4a086f7-b104-4a57-857a-y5e22834ete6",
+      "taskId": "75e18136-bf88-4bef-8c69-f6644cf0b584",
+      "projectId": "e9b39752-4efb-412d-98c6-9b5847e07212",
+      "user_id": "e36cd772-bf6d-4506-b573-f4373d609385",
+      "duration": "00:30:00",
+      "startDate": "2022-12-03T22:42:05.343Z",
+      "stopDate": "2022-12-03T22:42:06.679Z"
+    },
+    {
+      "id": "b4a086f7-b104-4a57-857a-x5e22834ete6",
+      "taskId": "75e18136-bf88-4bef-8c69-f6644cf0b584",
+      "projectId": "e9b39752-4efb-412d-98c6-9b5847e07212",
+      "user_id": "e36cd772-bf6d-4506-b573-f4373d609385",
+      "duration": "00:30:00",
+      "startDate": "2022-12-04T22:42:05.343Z",
+      "stopDate": "2022-12-04T22:42:06.679Z"
+    }
+  ]
+}

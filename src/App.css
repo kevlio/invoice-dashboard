@@ -1,0 +1,13 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem 0rem;
+  text-align: center;
+  padding-left: 4rem;
+}
+
+@media (max-width: 600px) {
+  #root {
+    padding-left: 3rem;
+  }
+}
