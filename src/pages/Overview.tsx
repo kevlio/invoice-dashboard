@@ -132,7 +132,7 @@ const Overview = () => {
 
   const getLayouts = () => {
     const savedLayouts = localStorage.getItem("grid-layout");
-    return savedLayouts ? JSON.parse(savedLayouts) : { lg: layout.lg };
+    return savedLayouts ? JSON.parse(savedLayouts) : { lg: layout };
   };
 
   const handleLayoutChange = (layout: object, layouts: object) => {

@@ -2,6 +2,8 @@ import React from "react";
 import { Invoice } from "../../interfaces";
 import { Table } from "@mantine/core";
 
+import dayjs from "dayjs";
+
 type Props = {
   sumInvoices: {
     sum: number;
@@ -20,8 +22,8 @@ const InvoiceTable = (props: Props) => {
       captionSide="top"
     >
       <caption>
-        Sent {props.sumInvoices.invoices.length} invoices,{" "}
-        {props.sumInvoices.sum.toLocaleString()}SEK
+        Sent {props.sumInvoices.invoices.length} invoices year {dayjs().year()},
+        total: {props.sumInvoices.sum.toLocaleString()} SEK
       </caption>
       <thead
         style={{
